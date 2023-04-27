@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaskar-wb
-- 👀 I’m interested in HTML,css,JS
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on frontend developer
+- 👀 I’m interested in HTML,css,JS,JSON,AJAX,PHP,LARAVEL
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on full Stack developer
 - 📫 How to reach me vaskarsaha32@gmail.com
 
 <!---
